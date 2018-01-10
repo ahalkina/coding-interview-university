@@ -8,9 +8,9 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/excersises/hello-world/helloworld.ts",
+            "program": "${workspaceFolder}/excersises/binary-search-trees/binary-search-trees.js",
             "outFiles": [
-                "${workspaceFolder}/**/*.js"
+                "${workspaceFolder}/excersises/binary-search-trees/binary-search-trees.js"
             ]
         }
     ]
