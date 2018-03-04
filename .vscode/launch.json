@@ -8,9 +8,9 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/excersises/binary-search-trees/binary-search-trees.js",
+            "program": "${workspaceFolder}/excersises/max-heap/max-heap.js",
             "outFiles": [
-                "${workspaceFolder}/excersises/binary-search-trees/binary-search-trees.js"
+                "${workspaceFolder}/excersises/max-heap/max-heap.js"
             ]
         }
     ]
