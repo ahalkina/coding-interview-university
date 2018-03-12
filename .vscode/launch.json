@@ -8,9 +8,9 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/excersises/max-heap/max-heap.js",
+            "program": "${workspaceFolder}/excersises/Quicksort/Quicksort.js",
             "outFiles": [
-                "${workspaceFolder}/excersises/max-heap/max-heap.js"
+                "${workspaceFolder}/excersises/Quicksort/Quicksort.js"
             ]
         }
     ]
